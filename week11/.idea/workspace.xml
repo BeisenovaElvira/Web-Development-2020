@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d84a15d-7f3b-4a3b-af7e-b3fab9c9e03d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1adbKmexUKeTEIIeBBrcxkOwXfV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/hh-front/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d84a15d-7f3b-4a3b-af7e-b3fab9c9e03d" name="Default Changelist" comment="" />
+      <created>1587068357641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587068357641</updated>
+      <workItem from="1587068362496" duration="568000" />
+      <workItem from="1587069017618" duration="201000" />
+      <workItem from="1587069253419" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587069318202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587069318202" />
+    <state width="661" height="245" key="GridCell.Tab.0.bottom" timestamp="1587068990162">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="661" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587068990162" />
+    <state width="661" height="245" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1587068789480" />
+    <state width="661" height="245" key="GridCell.Tab.0.center" timestamp="1587068990161">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="661" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587068990161" />
+    <state width="661" height="245" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1587068789479" />
+    <state width="661" height="245" key="GridCell.Tab.0.left" timestamp="1587068990161">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="661" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587068990161" />
+    <state width="661" height="245" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1587068789478" />
+    <state width="661" height="245" key="GridCell.Tab.0.right" timestamp="1587068990162">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="661" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587068990162" />
+    <state width="661" height="245" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1587068789479" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1587069312232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587069312232" />
+  </component>
+</project>
